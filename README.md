@@ -11,9 +11,8 @@
 
 
 ## ⚙️ Tech Stack
-- **Languages:** Golang, JavaScript, TypeScript, Python 
-- **Backend:** Gin, Express.js, gRPC, RESTful APIs, FastAPI , NodeJS , NestJS ,
-- **Backend:** Gin,Node.js, Express.js, gRPC, RESTful APIs
+- **Languages:** JavaScript, TypeScript, Python , Golang
+- **Backend:** Gin, Express.js, gRPC, RESTful APIs, FastAPI , NodeJS , NestJS 
 - **Cloud:** Kubernetes, Docker, DigitalOcean
 - **CI/CD:** GitHub Actions
 - **Version Control:** Git, GitHub
