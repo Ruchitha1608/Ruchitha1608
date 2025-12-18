@@ -27,6 +27,3 @@
 ---
 
 
-
-### ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting!
-
