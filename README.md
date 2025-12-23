@@ -1,6 +1,3 @@
-
-
-
 # Hey there! 👋 I'm Ruchitha
 
 - 💼 Currently cooking something with AI (Agents, Rag, Fine Tuning, Small Language Models).
@@ -16,14 +13,5 @@
 - **Cloud:** Kubernetes, Docker, DigitalOcean
 - **CI/CD:** GitHub Actions
 - **Version Control:** Git, GitHub
-
-
-
-
-
-## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
